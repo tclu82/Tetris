@@ -44,7 +44,7 @@ import sound.Sound;
  */
 public class GUI implements Observer {
 
-    // Constants
+    // Constants 
     
     /** Game panel width as assigned. */
     private static final int GAMEPANEL_WIDTH = 10;
