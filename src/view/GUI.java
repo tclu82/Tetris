@@ -44,7 +44,7 @@ import sound.Sound;
  */
 public class GUI implements Observer {
 
-    //Constants.
+    // Constants
     
     /** Game panel width as assigned. */
     private static final int GAMEPANEL_WIDTH = 10;
@@ -73,7 +73,7 @@ public class GUI implements Observer {
     /** The image file root. */
     private static final String IMAGE = "images/tetris.jpg";
 
-    //Instance Fields.
+    // Instance Fields
     
     /** A JFrame is used to display. */
     private JFrame myFrame;
